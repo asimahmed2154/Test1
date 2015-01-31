@@ -1,4 +1,7 @@
-Hi,
+Hi
 
 This is a test file
+<<<<<<< HEAD
 Adding new content
+=======
+>>>>>>> 43a9836ebeef051b00c5b5ae0986867dde43d2dc
